@@ -8,7 +8,7 @@
       <p>
       <h3>How to contact us</h3> 
         <ul>
-          <li>Number to contact our staff: 1(401)-420-6969</li>
+            <li>Number to contact our staff: <b>1(401)-420-6969</b></li>
           <li>Our Email is: Supereatsresteraunt!@gmail.com</li>
           <li>Click on the links below to accses our social media</li>
 
